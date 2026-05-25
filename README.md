@@ -2,6 +2,10 @@
   <img src="https://lanyard.cnrad.dev/api/219968676785291264" alt="Discord Status" />
 </a>
 
+<!--XEKER_STATS:START-->
+
+<!--XEKER_STATS:END-->
+
 ### 💻 Tech Stack & Tools I use:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
