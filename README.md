@@ -10,8 +10,8 @@
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ### 📊 GitHub Stats
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=qzuzu1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=qzuzu1&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=amineriad20&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amineriad20&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" />
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=qzuzu1&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=amineriad20&theme=tokyonight&no-frame=true&margin-w=15" alt="Trophies" />
 </a>
